@@ -19,9 +19,3 @@ I build scalable backend services in Go and full-stack apps with TypeScript. I f
 - Databases: PostgreSQL, Redis, SQLite
 - Infrastructure: Docker, Kubernetes (k8s), GitHub Actions
 - Testing & Quality: Go testing, Jest, ESLint, Prettier, Prometheus + Grafana
-
-## Get in touch
-- Email: <your-email@example.com>
-- LinkedIn: <LINKEDIN>
-- Twitter/X: <TWITTER>
-- Website/Portfolio: <WEBSITE>
